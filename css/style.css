@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,100&display=swap');
+
+*{
+    margin: 0;padding: 0;
+}
+header{
+    background-color: rgb(7, 0, 69);
+}
+
+
+footer{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 800;
+
+}
+.collapse ul li{
+    margin: 0px 10px;
+    padding: 0px 10px;
+}
+
+@media screen and (min-width: 992px) {
+    #toggle{
+        opacity: 0;
+    }
+    
+    
+}
+
+#brand{
+font-weight: 1000;
+font-size: 50px;
+}
+table{
+    margin:15px 0px ;
+}
+td{
+    padding:0px 70px;
+}
+.container{
+    margin-bottom: 11px;
+}
+.container a{
+    color: black;
+    text-decoration: none;
+    margin-bottom: 11px;
+}
+.container a img:hover{
+    width: 85px;
+    height: 85px;
+}
+.nav2{
+    margin: auto;
+}
+.plus,.card,.card-header,.card-body{
+    background-color: black;
+    color: aliceblue;
+}
+.plus{
+    border-radius: 10px solid;
+    margin-bottom: 10px;
+}
+.cards{
+    display:-webkit-inline-box;
+    padding: 30px;
+
+}
+.card2{
+    padding: 5px;
+    justify-content: center;
+    align-items: center;
+}
+
+

@@ -1,0 +1,13 @@
+/* flexbox text center container property */
+.flex-all-center{ 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.bg-blue-text-white{
+    background-color: rgb(7, 0, 69);
+    color: aliceblue;
+    text-decoration: none;
+}
+
